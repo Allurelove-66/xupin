@@ -1,0 +1,72 @@
+.background {
+  background-color: #cfbaba23;
+}
+
+.dyh {
+  display: flex;
+  font-size: 0.9rem;
+  color: rgba(20, 18, 18, 0.685);
+}
+
+.flex01 {
+  flex: 3.5;
+}
+
+.flex02 {
+  flex: 1.4;
+}
+
+.flex03 {
+  flex: 1.6;
+}
+
+.flex04 {
+  flex: 1;
+}
+
+.flex05 {
+  flex: 3;
+}
+
+.xhx {
+  color: rgba(255, 255, 255, 0);
+}
+
+.tupian {
+  display: flex;
+}
+
+.flextu1 {
+  flex: 1.4;
+}
+
+.flextu2 {
+  flex: 1;
+}
+
+.flextu3 {
+  flex: 0.19;
+}
+
+.border {
+  padding: 0.2rem 1rem;
+  border: 1px solid #00000077;
+  color: rgba(0, 0, 0, 0.479);
+}
+
+.color1 {
+  color: rgba(0, 0, 0, 0.527);
+}
+
+
+.border1 {
+  padding: 0.2rem 1rem;
+  border: 1px solid #00000077;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.dyhdb{
+  border-bottom:1.6px solid #ffffff;
+  padding: 9px 6px;
+}
